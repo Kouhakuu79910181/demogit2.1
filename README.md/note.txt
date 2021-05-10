@@ -1,0 +1,3 @@
+Các câu lệnh trong Git
+Git clone: kéo dự án từ trên server về máy
+chọn Terminal và link vào folder để cho Git chạy
